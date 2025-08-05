@@ -1,0 +1,13 @@
+# Git ignore file
+
+# Ignore Jupyter autosave files
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore other OS clutter
+.DS_Store
+Thumbs.db
+
